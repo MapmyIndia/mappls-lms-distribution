@@ -1,5 +1,9 @@
 # Changes to the MapplsLMS SDK for iOS
 
+## 1.0.9 - 19 Oct, 2026
+
+- Added support for iOS 13.
+
 ## 1.0.8 - 05 Oct, 2026
 
 - Bugs fixed

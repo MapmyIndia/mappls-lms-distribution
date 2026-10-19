@@ -15,7 +15,7 @@ Mappls Logic Management System.
 Add the following line to your `Podfile`:
 
 ```ruby
-pod 'MapplsLMS', '1.0.8'
+pod 'MapplsLMS', '1.0.9'
 ```
 
 Then run `pod repo update && pod install` and open the resulting `.xcworkspace`.
@@ -26,7 +26,7 @@ Add the distribution package to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/MapmyIndia/mappls-lms-distribution.git", from: "1.0.8")
+    .package(url: "https://github.com/MapmyIndia/mappls-lms-distribution.git", from: "1.0.9")
 ]
 ```
 
